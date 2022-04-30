@@ -111,7 +111,7 @@ const { joinVoiceChannel } = require('@discordjs/voice');
 
 let GUILD = client.guilds.cache.get('ID Server');
 const connection = joinVoiceChannel({
-    channelId: 'ID Voice',
+    channelId: '955906163541688431',
     guildId: GUILD.id,
     adapterCreator: GUILD.voiceAdapterCreator,
     selfDeaf: false
@@ -122,4 +122,4 @@ connection;  
 
 //https://discord.gg/RMEQSbMtEk//ZEROCODES//
 
-client.login(config.token)// Token Botakat La Bashi config.json dane
+client.login(config."OTYwMTgxNzEyMDkwOTg0NTc5.Ykms5w.9olKfp5qw0RkA0cHe0y7qSUvbjs")// Token Botakat La Bashi config.json dane
